@@ -1,0 +1,20 @@
+Hello , Im vipin i (forgive me for my grammer mistakes you (son of a rich)) , 
+im learning animations here what i learned today , todays date is 26 January 2025.................
+(im a frontend developer trainee ............. (newbieee 😢😢😢😢))
+
+
+#1 Keyframes 
+the basis structure of Keyframes
+
+@keyframes animationName {
+  0% {
+    /* Starting state */
+  }
+  50% {
+    /* Middle state */
+  }
+  100% {
+    /* Ending state */
+  }
+}
+
