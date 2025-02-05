@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* === Universal Reset === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* === Remove Default List Styles === */
+ul,
+ol {
+  list-style: none;
+}
+
+/* === Reset Links === */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* === Reset Buttons and Inputs === */
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* === Reset Button Default Styles === */
+button {
+  cursor: pointer;
+}
+
+/* === Reset Images === */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* === Reset Headings and Paragraphs === */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  font-weight: normal;
+}
+
+/* === Table Reset === */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* === Set Default Body Styles === */
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+  color: #333;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.custom-nav {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.custom-header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: #3d5a80;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+a.nav-link.active {
+  color: black;
+  background: white;
+  border-radius: 12px;
+  padding: 8px 12px !important;
+}
+
+a.nav-link {
+  color: #fff;
+  padding: 8px 12px !important;
+  margin-right: 4px;
+}

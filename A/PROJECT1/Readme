@@ -1,0 +1,12 @@
+<!DOCTYPE html> → Declares the document as HTML5.
+<html lang="en"> → The root of the HTML document.
+<head> → Contains metadata, title, stylesheets, and scripts.
+<title> → Defines the title of the webpage (appears in the browser tab).
+<link> → Links an external CSS file for styling.
+<script> → Links an external JavaScript file for interactivity.
+<body> → Contains the visible content of the webpage.
+<header> → Holds the website title and navigation menu.
+<nav> → Navigation bar with links.
+<main> → Main content area.
+<section> → Sections for organizing content.
+<footer> → Footer with copyright information.
